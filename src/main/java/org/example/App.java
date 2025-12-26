@@ -3,6 +3,6 @@ package org.example;
 public class App {
     public static void main(String[] args) {
         System.out.println("Hello from Maven + Jenkins!");
-        System.out.prinlnt("hello world");
+        System.out.println("hello world");
     }
 }
