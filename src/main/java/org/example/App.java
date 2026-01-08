@@ -6,6 +6,8 @@ public class App {
         System.out.println("hello world");
         System.out.println("Hello from Maven + Jenkins!");
         System.out.println("hello from freestyle");
+                System.out.println("hello from freestyle");
+
 
         
     }
